@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msg-outs",
+  "version": "1.0.0",
+  "description": "Random string messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/outs1ders/random-str-msg-outs.git"
+  },
+  "keywords": [],
+  "author": "Camilo Sanchez <jcsanchez.martinez.2020@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/outs1ders/random-str-msg-outs/issues"
+  },
+  "homepage": "https://github.com/outs1ders/random-str-msg-outs#readme",
+  "bin": {
+    "random-str-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
